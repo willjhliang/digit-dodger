@@ -1,0 +1,15 @@
+  This is a turn-based bullet hell where time moves only when you move.
+
+  Player (+):
+  WASD to move
+  Avoid numbers, mines, explosions
+
+  Numbers (1, 2, 3, 4, 5):
+  Number x falls down x tiles per turn
+    Ex: 3 will fall 3 tiles per turn
+
+  Mines (#):
+  Formed from numbers colliding with each another
+  Will explode when it collides with numbers
+  Does not fall down, stays in place
+  Detonates in a 2 tile radius
