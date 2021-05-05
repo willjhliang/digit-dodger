@@ -1,2 +1,2 @@
 # Digit Dodger
-My entry for FalconHacks 2019; a turn-based bullet hell game that emphasizes strategy over reflexes
+A turn-based bullet hell game that emphasizes strategy over reflexes. 2nd place at FalconHacks 2019.
